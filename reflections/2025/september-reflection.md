@@ -1,29 +1,29 @@
-# Monthly Reflection - January 2025
+# Monthly Reflection - September 2025
 
 ## Date Range
-From: 2025-01-01  
-To: 2025-01-31
+From: 2025-09-01  
+To: 2025-09-30
 
 ## Learning Summary
 
 ### New Concepts Mastered
-- [ ] Neural Networks Fundamentals - Confidence level (4)
-- [ ] Pandas Data Manipulation - Confidence level (3)
-- [ ] Git Version Control - Confidence level (4)
+- [ ] GUI Automation - Confidence level (3)
+- [ ] Git Version Control - Confidence level (3)
+- [ ] Windsurf Project Creation - Confidence level (2)
 
 ### Projects Completed
-1. **MNIST Digit Classifier** - Built first neural network, learned about overfitting and regularization
-2. **Data Analysis Dashboard** - Created interactive visualizations with Plotly, improved data cleaning skills
+1. **Paragon PywinAuto Program** - Built first GUI automated workflow, drawing data from an excel file and filling out Paragon Registration
+2. **Inventory QR Code Application** - Created base project using Windsurf.
 
 ### Skills Developed
-- **Technical Skills**: TensorFlow/Keras basics, advanced Pandas operations, Jupyter notebook workflows
+- **Technical Skills**: Basic Pandas table iteration, Jupyter notebook workflows
 - **Soft Skills**: Better at breaking down complex problems, improved documentation habits
-- **Tools/Frameworks**: Git, Docker basics, VS Code extensions for Python
+- **Tools/Frameworks**: Git, Windsurf
 
 ## Challenges & Solutions
 
 ### Biggest Challenge
-Understanding backpropagation algorithm and how gradients flow through the network layers.
+Ex
 
 ### How You Overcame It
 Watched multiple YouTube videos, implemented a simple network from scratch in NumPy, and drew out the mathematical computations step by step.
@@ -32,7 +32,6 @@ Watched multiple YouTube videos, implemented a simple network from scratch in Nu
 Visual learning works best for me. Need to implement concepts from scratch to truly understand them, not just use high-level APIs.
 
 ## Achievements & Milestones
-- [x] Completed first neural network project
 - [x] Set up proper development environment
 - [x] Started maintaining this learning journal
 - [ ] Contributed to open source project (moved to next month)
@@ -51,8 +50,6 @@ Visual learning works best for me. Need to implement concepts from scratch to tr
 
 ### Project Goals
 - [ ] Start computer vision project (image classification)
-- [ ] Complete Kaggle competition entry
-- [ ] Improve MNIST project with better architecture
 
 ### Skill Goals
 - [ ] Practice PyTorch (currently only know TensorFlow)
@@ -61,9 +58,7 @@ Visual learning works best for me. Need to implement concepts from scratch to tr
 
 ## Resources to Explore
 - [ ] Fast.ai Practical Deep Learning course
-- [ ] "Deep Learning with Python" by François Chollet
 - [ ] CS231n Stanford course videos
-- [ ] PyTorch official tutorials
 
 ## Personal Growth Notes
 Really enjoying the hands-on aspect of AI/ML. The combination of math, programming, and real-world applications is exactly what I was looking for. Need to be more consistent with daily practice - some days I get distracted by other things. Planning to set aside 2 hours every morning for focused learning.
@@ -71,5 +66,6 @@ Really enjoying the hands-on aspect of AI/ML. The combination of math, programmi
 The community aspect is also important - joined the Fast.ai forum and local ML meetup group. Getting different perspectives helps a lot.
 
 ---
-**Overall Rating**: ⭐⭐⭐⭐⭐ (Great start, solid foundation built)  
-**Next Review Date**: 2025-02-28
+**Overall Rating**: ⭐⭐⭐⭐⭐ (Great start, solid foundation built)
+**Review Completed On**: 2025-10-1
+**Next Review Date**: 2025-11-1

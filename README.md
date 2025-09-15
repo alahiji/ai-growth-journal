@@ -13,29 +13,29 @@ ai-growth-journal/
 │   │   ├── papers/             # Research papers and notes
 │   │   ├── concepts/           # Key concept explanations
 │   │   └── skills/             # Specific skill development
+│   ├── languages/              # Language-specific learning
+│   │   ├── python/             # Primary focus
+│   │   ├── javascript/         # Web development
+│   │   ├── r/                  # Statistics and data science
+│   │   └── sql/                # Database queries
+│   ├── tools/                  # Tools and frameworks
+│   │   ├── libraries/          # Library-specific notes
+│   │   ├── frameworks/         # Framework learning
+│   │   └── platforms/          # Cloud platforms, MLOps
 │   └── resources/              # General resources and references
 ├── projects/                   # Hands-on projects
-│   ├── 2025/                   # Year-based organization
-│   │   ├── experiments/        # Quick experiments and prototypes
-│   │   ├── tutorials/          # Following tutorials
-│   │   └── personal/           # Personal projects
-│   └── templates/              # Project templates
-├── languages/                  # Language-specific learning
-│   ├── python/                 # Primary focus
-│   ├── javascript/             # Web development
-│   ├── r/                      # Statistics and data science
-│   └── sql/                    # Database queries
-├── tools/                      # Tools and frameworks
-│   ├── libraries/              # Library-specific notes
-│   ├── frameworks/             # Framework learning
-│   └── platforms/              # Cloud platforms, MLOps
+│   └── 2025/                   # Year-based organization
+│       ├── experiments/        # Quick experiments and prototypes
+│       ├── tutorials/          # Following tutorials
+│       └── personal/           # Personal projects
 ├── career/                     # Career development
 │   ├── portfolio/              # Portfolio projects
 │   ├── certifications/         # Certification progress
 │   └── networking/             # Professional connections
-└── reflections/                # Personal growth tracking
-    ├── 2025/                   # Year-based reflections
-    └── milestones/             # Major achievements
+├── reflections/                # Personal growth tracking
+│   ├── 2025/                   # Year-based reflections
+│   └── milestones/             # Major achievements
+└── templates/                  # Reusable templates
 ```
 
 ## Usage Guidelines
