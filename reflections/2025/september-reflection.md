@@ -7,26 +7,27 @@ To: 2025-09-30
 ## Learning Summary
 
 ### New Concepts Mastered
-- [ ] GUI Automation - Confidence level (3)
-- [ ] Git Version Control - Confidence level (3)
-- [ ] Windsurf Project Creation - Confidence level (2)
+- [x] GUI Automation - Confidence level (4)
+- [x] Git Version Control - Confidence level (6)
+- [x] Windsurf Project Creation - Confidence level (7)
 
 ### Projects Completed
 1. **Paragon PywinAuto Program** - Built first GUI automated workflow, drawing data from an excel file and filling out Paragon Registration
-2. **Inventory QR Code Application** - Created base project using Windsurf.
+2. **Inventory QR Code Application** - Created base project using Windsurf. Now at a much later stage, lots of database administration.
+3. **EHR Parsing Python App** - Executable program to help parse a rather strangely formatted address column.
 
 ### Skills Developed
-- **Technical Skills**: Basic Pandas table iteration, Jupyter notebook workflows
-- **Soft Skills**: Better at breaking down complex problems, improved documentation habits
-- **Tools/Frameworks**: Git, Windsurf
+- **Technical Skills**: Basic python working with libraries, building web applications. Packaging python apps into an executable.
+- **Soft Skills**: Better at breaking down complex problems, improved documentation habits, keeping track of project priorities and direction
+- **Tools/Frameworks**: Git, Windsurf, Microsoft SQL Server Management Studio (SSMS), DBeaver
 
 ## Challenges & Solutions
 
 ### Biggest Challenge
-Ex
+Staying motivated at work- keeping productivity high while avoiding burnout
 
 ### How You Overcame It
-Watched multiple YouTube videos, implemented a simple network from scratch in NumPy, and drew out the mathematical computations step by step.
+Trying to add things like trackers, comics, reading, phone calls, this journal throughout the day to keep my mind sharp
 
 ### Lessons Learned
 Visual learning works best for me. Need to implement concepts from scratch to truly understand them, not just use high-level APIs.
@@ -37,35 +38,32 @@ Visual learning works best for me. Need to implement concepts from scratch to tr
 - [ ] Contributed to open source project (moved to next month)
 
 ## Knowledge Gaps Identified
-- [ ] Deep understanding of different optimizers - Priority level (High)
-- [ ] Computer vision techniques beyond basic CNNs - Priority level (Medium)
-- [ ] MLOps and model deployment - Priority level (Medium)
+- [ ] FHIR hl7 messages - Priority level (High)
+- [ ] Basic compsci terms - Priority level (Medium)
 
 ## Goals for Next Month
 
 ### Learning Goals
-- [ ] Master Convolutional Neural Networks - Target completion date: 2025-02-15
-- [ ] Complete Fast.ai course Part 1 - Target completion date: 2025-02-28
-- [ ] Learn Docker for ML projects - Target completion date: 2025-02-20
+- [ ] Complete Azure AI-102 Cert - Target completion date: 2025-10-19
+- [ ] Begin hl7 FHIR Course - Target completion date: 2025-02-28
+- [ ] Learn how a company is run, startups
 
 ### Project Goals
-- [ ] Start computer vision project (image classification)
+- [ ] Setup Linux on my laptop and learn how to use it
+- [ ] Setup Luigi AI website
 
 ### Skill Goals
-- [ ] Practice PyTorch (currently only know TensorFlow)
-- [ ] Learn Weights & Biases for experiment tracking
-- [ ] Get comfortable with cloud computing (AWS/Colab Pro)
+- [ ] Linux servers
 
 ## Resources to Explore
-- [ ] Fast.ai Practical Deep Learning course
 - [ ] CS231n Stanford course videos
 
 ## Personal Growth Notes
-Really enjoying the hands-on aspect of AI/ML. The combination of math, programming, and real-world applications is exactly what I was looking for. Need to be more consistent with daily practice - some days I get distracted by other things. Planning to set aside 2 hours every morning for focused learning.
+Liking my progress so far but I feel like I can do so much more as I continue to gain more skills. Starting a business / side gig for over the weekends feels like my current priority. Need to do more. MORE!
 
-The community aspect is also important - joined the Fast.ai forum and local ML meetup group. Getting different perspectives helps a lot.
+All while preserving my physical and mental health of course :D
 
 ---
 **Overall Rating**: ⭐⭐⭐⭐⭐ (Great start, solid foundation built)
-**Review Completed On**: 2025-10-1
+**Review Completed On**: 2025-10-2
 **Next Review Date**: 2025-11-1

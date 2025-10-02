@@ -67,3 +67,22 @@ See the `templates/` directory for:
 - Project README template
 - Learning note template
 - Reflection template
+
+## Automation Scripts
+
+The `scripts/` directory contains helpful automation tools:
+
+### Generate Next Month's Reflection
+Automatically create next month's reflection file based on the current month:
+
+```bash
+python scripts/create_next_reflection.py reflections/2025/september-reflection.md
+```
+
+This will:
+- ✅ Create a summary of the previous month
+- ✅ Carry forward uncompleted goals and knowledge gaps
+- ✅ Update all dates automatically
+- ✅ Maintain consistent formatting
+
+See `scripts/README.md` for more details.

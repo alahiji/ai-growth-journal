@@ -2,27 +2,29 @@
 
 ## Important Dates
 DHR Internship Start:                       2024-11-18
-                                            9.9 months ago
+                                            10.4 months ago
 DHR Associate AI Automation Engineer:       2025-09-01
-                                            15 days ago
+                                            1.0 months ago
 
 
                 
 ## Learning Summary
 
 ### New Concepts Mastered
-- [ ] GUI Automation - Confidence level (3)
-- [ ] Git Version Control - Confidence level (3)
-- [ ] Windsurf Project Creation - Confidence level (2)
+- [x] GUI Automation - Confidence level (2)
+- [x] Git Version Control - Confidence level (3)
+- [ ] Windsurf Project Creation - Confidence level (4)
 
 ### Projects Completed
 1. **Paragon PywinAuto Program** - Built first GUI automated workflow, drawing data from an excel file and filling out Paragon Registration
-2. **Inventory QR Code Application** - Created base project using Windsurf.
+2. **OR Inventory QR Code Application** - Created base project using Windsurf. Created mobile and web portals. Created a database in Microsoft SQL Server Management Studio (MSMM) and connected it to our application. Testing included:
+- Querying a table from a test python script: SUCCESSFUL
+- Parsing an hl7 method using hl7apy, and uploading to our db table: SUCCESSFUL
 
 ### Skills Developed
-- **Technical Skills**: Basic Pandas table iteration, Jupyter notebook workflows
-- **Soft Skills**: Better at breaking down complex problems, improved documentation habits
-- **Tools/Frameworks**: Git, Windsurf
+- **Technical Skills**: Basic database management, SQL scripts
+- **Soft Skills**: Better at breaking down complex problems, improved documentation habits, understanding and boiling down project requirements
+- **Tools/Frameworks**: Git, Windsurf, Microsoft SQL Server Management Studio (MSMM)
 
 ## Challenges & Solutions
 
@@ -38,7 +40,8 @@ Visual learning works best for me. Need to implement concepts from scratch to tr
 ## Achievements & Milestones
 - [x] Set up proper development environment
 - [x] Started maintaining this learning journal
-- [ ] Contributed to open source project (moved to next month)
+- [x] Completed one Project start to finish (EHR Parsing App)
+- [ ] Start video game design project on weekends
 
 ## Knowledge Gaps Identified
 - [ ] Deep understanding of different optimizers - Priority level (High)
@@ -56,7 +59,7 @@ Visual learning works best for me. Need to implement concepts from scratch to tr
                                             6.8 months ago
 
 ### Project Goals
-- [ ] Start computer vision project (image classification)
+- [ ] Start video game design project on weekends
 
 ### Skill Goals
 - [ ] Practice PyTorch (currently only know TensorFlow)
