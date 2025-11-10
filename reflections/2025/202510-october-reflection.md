@@ -52,8 +52,8 @@ Learning to break down complex problems into smaller, more manageable pieces.
 ## Goals for Next Month
 
 ### Learning Goals
-- [ ] Complete Azure AI-102 Cert - Target completion date: 2025-10-15
-- [ ] Begin hl7 FHIR Course - Target completion date: 2025-10-15
+- [ ] Complete Azure AI-102 Cert - Target completion date: 2025-12-07
+- [ ] Begin hl7 FHIR Course - Target completion date: 2025-12-04
 - [ ] Learn how a company is run, startups
 
 ### Project Goals
