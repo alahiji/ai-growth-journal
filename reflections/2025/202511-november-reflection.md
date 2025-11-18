@@ -10,7 +10,7 @@ To: 2025-11-30
 ## Learning Summary
 
 ### New Concepts Mastered
-- [ ] [Concept name] - Confidence level (1-10)
+- [x] FHIR messaging standards and healthcare interoperability - Confidence level (5/10)
 - [ ] [Concept name] - Confidence level (1-10)
 
 ### Projects Completed
@@ -34,11 +34,11 @@ To: 2025-11-30
 [Key takeaways and insights from this month's experiences]
 
 ## Achievements & Milestones
-- [ ] [Achievement or milestone]
+- [x] Completed FHIR Fundamentals Certification (2025-11-18)
 - [ ] [Achievement or milestone]
 
 ## Knowledge Gaps Identified
-- [ ] FHIR hl7 messages - Priority level (High)
+- [x] FHIR hl7 messages - Priority level (High) - ADDRESSED with FHIR Fundamentals Cert
 - [ ] Basic compsci terms - Priority level (Medium)
 - [ ] [New gap identified] - Priority level
 
@@ -46,7 +46,7 @@ To: 2025-11-30
 
 ### Learning Goals
 - [ ] Complete Azure AI-102 Cert - Target completion date: 2025-12-15
-- [ ] Begin hl7 FHIR Course - Target completion date: 2025-12-15
+- [x] Begin hl7 FHIR Course - Target completion date: 2025-12-15 - COMPLETED: FHIR Fundamentals
 - [ ] Learn how a company is run, startups
 - [ ] [New learning goal]
 

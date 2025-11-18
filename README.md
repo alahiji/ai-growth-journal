@@ -2,6 +2,12 @@
 
 A personal repository to track learning, projects, and growth in the AI field over multiple years.
 
+## Recent Highlights
+- 🎓 **FHIR Fundamentals Certificate** (November 2025) - Healthcare interoperability standards
+- 💼 **Associate AI Automation Engineer** at DHR (September 2025)
+- 🚀 **Luigi AI** - Side business launched
+- 📊 **6+ Production Projects** - Including HL7 messaging systems, data pipelines, and automation tools
+
 ## Repository Structure
 
 ```
@@ -29,9 +35,9 @@ ai-growth-journal/
 │       ├── tutorials/          # Following tutorials
 │       └── personal/           # Personal projects
 ├── career/                     # Career development
-│   ├── portfolio/              # Portfolio projects
-│   ├── certifications/         # Certification progress
-│   └── networking/             # Professional connections
+│   ├── milestones.md           # Career milestones and achievements
+│   ├── certifications.md       # Professional certifications tracking
+│   └── portfolio-and-certifications/  # Certificates and portfolio items
 ├── reflections/                # Personal growth tracking
 │   ├── 2025/                   # Year-based reflections
 │   └── milestones/             # Major achievements

@@ -2,9 +2,9 @@
 
 ## Important Dates
 DHR Internship Start:                       2024-11-18
-                                            10.8 months ago
+                                            12.0 months ago
 DHR Associate AI Automation Engineer:       2025-09-01
-                                            1.4 months ago
+                                            2.5 months ago
 
 
                 
@@ -13,23 +13,48 @@ DHR Associate AI Automation Engineer:       2025-09-01
 ### New Concepts Mastered
 - Git Version Control - Confidence level (3)
 - Windsurf Project Creation - Confidence level (4)
+- SQL conditional formatting - Confidence level (8)
+- Python application modularization - Confidence level (8)
+- Data transformation pipelines - Confidence level (7)
+- HL7 message handling - Confidence level (6)
+- FHIR messaging standards - Confidence level (5)
 
 ### Projects Completed
 1. **Paragon PywinAuto Program** - Built first GUI automated workflow, drawing data from an excel file and filling out Paragon Registration
 2. **OR Inventory QR Code Application** - Created base project using Windsurf. Created mobile and web portals. Created a database in Microsoft SQL Server Management Studio (MSMM) and connected it to our application. Testing included:
 - Querying a table from a test python script: SUCCESSFUL
 - Parsing an hl7 method using hl7apy, and uploading to our db table: SUCCESSFUL
+3. **App.py Refactoring** - Remodeled monolithic app.py into modular run.py with properly extracted routes
+4. **Medisoft Rules Parser** - Built data transformation pipeline for Enable Healthcare transition
+5. **Email Organizing Application** - Created automation tool for email management
+6. **HL7 Message System** - Implemented HL7 message output with orbittst and 365 apps hosting
 
 ### Skills Developed
-- **Technical Skills**: Basic database management, SQL scripts
-- **Soft Skills**: Better at breaking down complex problems, improved documentation habits, understanding and boiling down project requirements
-- **Tools/Frameworks**: Git, Windsurf, Microsoft SQL Server Management Studio (MSMM)
+- **Technical Skills**: Database management, SQL scripts, SQL conditional formatting, Python modularization, data pipeline design, HL7/FHIR messaging, database reconciliation logic, application hosting and deployment
+- **Soft Skills**: Breaking down complex problems, improved documentation habits, understanding project requirements, project organization, code maintainability practices, healthcare domain knowledge
+- **Tools/Frameworks**: Git, Windsurf, Microsoft SQL Server Management Studio (MSMM), Pandas, HL7 messaging standards, orbittst and 365 apps platforms
+
+## Certifications
+- [x] **FHIR Fundamentals Certificate** - Completed 2025-11-18
+  - Healthcare interoperability standards
+  - FHIR resource types and data structures
+  - RESTful API design for healthcare data exchange
 
 ## Achievements & Milestones
 - [x] Set up proper development environment
 - [x] Started maintaining this learning journal
 - [x] Completed one Project start to finish (EHR Parsing App)
+- [x] Successfully refactored major application into modular architecture
+- [x] Delivered Medisoft rules parser for Enable Healthcare transition
+- [x] Deployed and configured production apps (orbittst and 365)
+- [x] Implemented working HL7 message output system
+- [x] Built functional email organizing application
+- [x] Setup Luigi AI website
+- [x] Completed FHIR Fundamentals Certification
+- [ ] Complete Azure AI-102 Certification
 - [ ] Start video game design project on weekends
 
 ### Project Goals
+- [ ] Setup Linux on laptop and learn how to use it
+- [ ] Buy domain for Luigi AI and reach out to potential clients
 - [ ] Start video game design project on weekends
