@@ -108,7 +108,7 @@ With David's departure, you're likely absorbing additional responsibilities. Thi
 This certification complements your FHIR knowledge and positions you for cloud-based healthcare AI projects.
 
 **Realistic Timeline**: 
-- Current target: December 15, 2025 (4 weeks away)
+- Current target: December 7, 2025 (4 weeks away)
 - **Recommendation**: Extend to January 31, 2026 if work demands increase
 - Quality > Speed: A well-understood certification beats a rushed one
 
@@ -415,9 +415,9 @@ Based on typical 1-year developer profiles:
 
 ### 🚩 Burnout Indicators:
 - [ ] Consistently working evenings/weekends
-- [ ] Feeling guilty when not working/learning
+- [x] Feeling guilty when not working/learning
 - [ ] Declining interest in previously enjoyed activities
-- [ ] Persistent fatigue despite adequate sleep
+- [x] Persistent fatigue despite adequate sleep
 - [ ] Irritability or mood changes
 - [ ] Physical symptoms (headaches, stomach issues)
 
