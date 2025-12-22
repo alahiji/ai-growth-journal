@@ -2,9 +2,9 @@
 
 ## Important Dates
 DHR Internship Start:                       2024-11-18
-                                            12.0 months ago
+                                            1.09 years ago
 DHR Associate AI Automation Engineer:       2025-09-01
-                                            2.5 months ago
+                                            3.7 months ago
 
 
                 
