@@ -3,16 +3,20 @@
 A personal repository to track learning, projects, and growth in the AI field over multiple years.
 
 ## Recent Highlights
+- 💍 **Married** (January 2026) - Major life milestone
+- 🌍 **Evaluating International Relocation** - Considering move to GCC country (Oman)
+- 🎓 **Azure AI-102 Certification** (December 2025) - Cloud AI and Machine Learning
 - 🎓 **FHIR Fundamentals Certificate** (November 2025) - Healthcare interoperability standards
-- 💼 **Associate AI Automation Engineer** at DHR (September 2025)
-- 🚀 **Luigi AI** - Side business launched
+- 💼 **Associate AI Automation Engineer** at DHR (September 2025) - 1.2 years at DHR
 - 📊 **6+ Production Projects** - Including HL7 messaging systems, data pipelines, and automation tools
+- 🚀 **Luigi AI** - Side business (currently evaluating future direction)
 
 ## Repository Structure
 
 ```
 ai-growth-journal/
 ├── README.md                    # This file
+├── _SHARED_CONTEXT.md          # Consolidated context for therapist & career counselor
 ├── learning/                    # Organized learning materials
 │   ├── 2025/                   # Year-based organization
 │   │   ├── courses/            # Online courses, tutorials
@@ -35,12 +39,15 @@ ai-growth-journal/
 │       ├── tutorials/          # Following tutorials
 │       └── personal/           # Personal projects
 ├── career/                     # Career development
-│   ├── milestones.md           # Career milestones and achievements
-│   ├── certifications.md       # Professional certifications tracking
 │   └── portfolio-and-certifications/  # Certificates and portfolio items
 ├── reflections/                # Personal growth tracking
 │   ├── 2025/                   # Year-based reflections
 │   └── milestones/             # Major achievements
+├── therapy/                    # Therapy session notes (private)
+│   └── _SESSION_INDEX.md       # Session log and running themes
+├── career-counseling/          # Career counseling and assessments
+│   └── 20251118-career-counselor-assessment.md
+├── memories/                   # Screenshots and memorable moments
 └── templates/                  # Reusable templates
 ```
 

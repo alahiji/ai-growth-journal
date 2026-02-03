@@ -1,5 +1,28 @@
 # AI Learning Roadmap
 
+## 🔄 Current Context (February 2026)
+
+**Status**: Paused for life transition planning
+
+**Current Priorities**:
+1. ✅ Azure AI-102 certification (Completed 12/28/2025)
+2. Apply Azure AI skills in practical healthcare IT projects
+3. Maintain current skill level while managing major life decisions
+4. Defer deep learning and advanced topics until personal situation stabilizes
+5. Focus on job market research for potential relocation
+
+**Timeline Adjustment**: 
+- Original roadmap assumed continuous focused learning
+- Now adjusted for: marriage, potential international relocation, work-life balance focus
+- Emphasis on **sustainable learning** over aggressive timeline
+
+**Key Decision Points**:
+- If relocating to GCC: Research AI/ML job market and adjust skills accordingly
+- If staying in US: Continue healthcare AI specialization path
+- Prioritize portable, internationally-recognized skills
+
+---
+
 ## Foundation Level (Months 1-3)
 
 ### Mathematics & Statistics
@@ -103,5 +126,6 @@
 - Hugging Face for NLP/transformers
 
 ---
-**Last Updated**: 2025-01-15
-**Review Frequency**: Monthly
+**Last Updated**: February 2, 2026
+**Review Frequency**: Quarterly (adjusted from monthly due to life transitions)
+**Next Review**: May 2026 (after relocation decision)

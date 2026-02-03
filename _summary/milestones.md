@@ -2,11 +2,30 @@
 
 ## Important Dates
 DHR Internship Start:                       2024-11-18
-                                            1.09 years ago
+                                            1.2 years ago
 DHR Associate AI Automation Engineer:       2025-09-01
-                                            3.7 months ago
+                                            5 months ago
+Married:                                    2026-01-20 (approx)
+                                            2 weeks ago
+Iran Trip:                                  2025-12-28 to 2026-01-20
+                                            ~1 month duration
 
+## Life Context Updates
 
+### January 2026
+- **Marriage**: Married spouse during month-long trip to Iran
+- **Major Decision Point**: Evaluating relocation to GCC country (Oman) vs. US immigration process
+- **Career Considerations**: Researching job markets, considering trade-offs between career advancement and being with spouse
+- **Personal Growth**: Working with therapist on work-life balance, relationship expectations, and career fulfillment
+
+### Current Challenges
+- Long-distance marriage (temporary)
+- Sleep management (currently 7 hours, need 7.5-8)
+- Balancing current job demands with future planning
+- Evaluating whether IT work provides sufficient creativity and challenge
+- Managing expectations about happiness and fulfillment
+
+---
                 
 ## Learning Summary
 
@@ -39,6 +58,10 @@ DHR Associate AI Automation Engineer:       2025-09-01
   - Healthcare interoperability standards
   - FHIR resource types and data structures
   - RESTful API design for healthcare data exchange
+- [x] **Azure AI-102 Certification** - Completed 2025-12-28
+  - Azure Cognitive Services and Machine Learning
+  - AI solution architecture and deployment
+  - Cloud-based AI implementation
 
 ## Achievements & Milestones
 - [x] Set up proper development environment
@@ -50,11 +73,31 @@ DHR Associate AI Automation Engineer:       2025-09-01
 - [x] Implemented working HL7 message output system
 - [x] Built functional email organizing application
 - [x] Setup Luigi AI website
-- [x] Completed FHIR Fundamentals Certification
-- [ ] Complete Azure AI-102 Certification
-- [ ] Start video game design project on weekends
+- [x] Completed FHIR Fundamentals Certification (November 2025)
+- [x] Completed Azure AI-102 Certification (December 2025)
+- [x] Got married in Iran (January 2026)
+- [ ] Research GCC country job markets (Oman priority)
+- [ ] Develop relocation plan with spouse
+- [ ] Start video game design project on weekends (Deferred)
 
 ### Project Goals
-- [ ] Setup Linux on laptop and learn how to use it
-- [ ] Buy domain for Luigi AI and reach out to potential clients
-- [ ] Start video game design project on weekends
+
+#### Immediate Priorities (Next 3 months)
+- [x] Complete Azure AI-102 Certification (Completed 12/28/2025)
+- [ ] Research job opportunities in Oman/GCC countries
+- [ ] Evaluate Luigi AI viability vs. portfolio project status
+- [ ] Improve work-life balance and sleep schedule (7.5-8 hours)
+- [ ] Have career discussion with DHR manager about future plans
+
+#### Medium-term Goals (3-6 months)
+- [ ] Make relocation decision (US immigration vs. GCC move)
+- [ ] If relocating: Begin job search in target country
+- [ ] If staying: Initiate spouse immigration process
+- [ ] Buy domain for Luigi AI (if continuing as business)
+- [ ] Develop sustainable side project routine
+
+#### Long-term Goals (6-12 months)
+- [ ] Relocate to be with spouse (target: within 6 months)
+- [ ] Setup Linux on laptop and learn how to use it (Lower priority)
+- [ ] Start video game design project on weekends (When settled)
+- [ ] Build remote work capabilities for location flexibility

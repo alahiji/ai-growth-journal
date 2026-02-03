@@ -14,6 +14,43 @@ You've demonstrated **exceptional growth** in your first year as a professional 
 
 ---
 
+## 🔄 February 2026 Update
+
+**Major Life Changes Since Original Assessment**:
+
+### Personal
+- ✅ **Married** in Iran (January 2026) during month-long trip
+- 🌍 **Evaluating International Relocation** to GCC country (Oman) to be with spouse
+- 💭 **In Therapy** addressing work-life balance, career fulfillment, and relationship expectations
+- 😴 **Sleep Challenges** - Currently 7 hours/night, working toward 7.5-8 hours
+
+### Professional
+- 🎓 **Azure AI-102**: ✅ Completed December 28, 2025 (just before Iran trip)
+- 🤔 **Career Questions**: Actively questioning if IT provides sufficient creativity/challenge
+- 🌐 **Job Market Research**: Investigating opportunities in GCC countries
+- ⚖️ **Priority Shift**: Being with spouse now higher priority than career advancement
+
+### Critical Insights from Therapy
+1. **Work Philosophy Revelation**: Honest admission that if could do anything, would retire and not work
+   - Interested in FIRE (Financial Independence, Retire Early)
+   - Enjoys music, games, movies, "doing nothing"
+   - May be seeking autonomy/creativity/meaning rather than "no work"
+2. **Relationship Dynamics**: Working through fear of expecting spouse to be sole source of happiness
+3. **Career Fulfillment**: Recognizing pattern of never choosing work wanted to do, only what "should" do
+
+### Updated Priorities (February 2026)
+1. ✅ **COMPLETED**: Azure AI-102 certification (12/28/2025)
+2. **IMMEDIATE**: Research GCC job markets and make relocation decision (3-6 months)
+3. **ONGOING**: Improve sleep schedule and work-life balance
+4. **DEFERRED**: Luigi AI business development, video game project, Linux learning
+
+### Assessment Update
+The original assessment's warning about burnout risk and work-life balance has become even more critical. The addition of major life decisions (marriage, potential international relocation) while maintaining current work demands creates significant stress. The therapy insights suggest deeper questions about career fulfillment that go beyond technical skill development.
+
+**Recommendation**: Focus on stability and self-care during this transition period. Major career moves should wait until relocation decision is made and personal situation stabilizes.
+
+---
+
 ## Strengths & Achievements
 
 ### 🎯 Technical Growth (Outstanding)
