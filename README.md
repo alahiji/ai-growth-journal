@@ -3,7 +3,7 @@
 A personal repository to track learning, projects, and growth in the AI field over multiple years.
 
 ## Recent Highlights
-- 💍 **Married** (January 2026) - Major life milestone
+- 💍 **Married** (January 17, 2026) - Major life milestone
 - 🌍 **Evaluating International Relocation** - Considering move to GCC country (Oman)
 - 🎓 **Azure AI-102 Certification** (December 2025) - Cloud AI and Machine Learning
 - 🎓 **FHIR Fundamentals Certificate** (November 2025) - Healthcare interoperability standards

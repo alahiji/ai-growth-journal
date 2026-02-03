@@ -19,7 +19,7 @@ You've demonstrated **exceptional growth** in your first year as a professional 
 **Major Life Changes Since Original Assessment**:
 
 ### Personal
-- ✅ **Married** in Iran (January 2026) during month-long trip
+- ✅ **Married** in Iran (January 17, 2026) during month-long trip
 - 🌍 **Evaluating International Relocation** to GCC country (Oman) to be with spouse
 - 💭 **In Therapy** addressing work-life balance, career fulfillment, and relationship expectations
 - 😴 **Sleep Challenges** - Currently 7 hours/night, working toward 7.5-8 hours

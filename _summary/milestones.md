@@ -5,15 +5,15 @@ DHR Internship Start:                       2024-11-18
                                             1.2 years ago
 DHR Associate AI Automation Engineer:       2025-09-01
                                             5 months ago
-Married:                                    2026-01-20 (approx)
-                                            2 weeks ago
+Married:                                    2026-01-17
+                                            2.5 weeks ago
 Iran Trip:                                  2025-12-28 to 2026-01-20
                                             ~1 month duration
 
 ## Life Context Updates
 
 ### January 2026
-- **Marriage**: Married spouse during month-long trip to Iran
+- **Marriage**: Married Saba on January 17, 2026 during month-long trip to Iran
 - **Major Decision Point**: Evaluating relocation to GCC country (Oman) vs. US immigration process
 - **Career Considerations**: Researching job markets, considering trade-offs between career advancement and being with spouse
 - **Personal Growth**: Working with therapist on work-life balance, relationship expectations, and career fulfillment

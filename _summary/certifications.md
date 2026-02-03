@@ -100,7 +100,7 @@ Completed just before Iran trip and marriage. This certification significantly e
 ## Career Context Notes
 
 **Current Situation** (As of February 2026):
-- Married in January 2026 during month-long trip to Iran
+- Married on January 17, 2026 during month-long trip to Iran
 - Considering relocation to GCC country (Oman) to be with spouse
 - Evaluating job market and certification relevance for potential international move
 - Focusing on portable skills and internationally recognized certifications

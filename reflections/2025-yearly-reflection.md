@@ -16,7 +16,8 @@ The difference this time is awareness. I started therapy, created this journal, 
 - **Leadership**: Stepped up during colleague departure, led OR staff implementation, presented to technical teams
 
 ### Personal
-- **Married** in Iran (late December 2025)
+- **Married** in Iran (January 17, 2026)
+- **Loss of Uncle Mostafa** - First experience with death of close family member
 - **Started therapy** (December 22, 2025)
 - **Created AI growth journal** for self-awareness and pattern tracking
 - **Maintained consistent gym routine** (3 heavy days + daily activity)

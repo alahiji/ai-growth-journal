@@ -153,7 +153,7 @@ Unique combination of medical training and advanced technical expertise. Transit
 
 Strengths include rapid skill acquisition, systems thinking, cross-functional leadership, and ability to translate complex clinical requirements into technical solutions. Experienced in presenting to executive leadership and managing stakeholder relationships.
 
-Currently exploring opportunities in GCC region to leverage healthcare IT expertise in international markets while building family life in Middle East.
+Recently married (January 2026) and exploring opportunities in GCC region to leverage healthcare IT expertise in international markets while building family life in Middle East.
 
 ________________________________________
 
