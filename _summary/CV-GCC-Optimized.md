@@ -49,50 +49,33 @@ PROFESSIONAL EXPERIENCE
 
 ASSOCIATE AI AUTOMATION ENGINEER | DHR Health
 September 2025 – Present | McAllen, Texas
-Major US Healthcare System (500+ bed facility serving South Texas region)
-
-Led AI automation initiatives and healthcare IT integration projects for enterprise hospital system.
-
-Key Achievements:
-• Spearheaded ORBIT Inventory System expansion - Architected and deployed multi-location healthcare inventory management system using Microsoft SQL Server and Python automation, scaling to multiple hospital facilities
-• Directed MISSION CONTROL project - Built real-time hospital monitoring dashboard with .NET TCP listeners processing HL7 ADT messages for live patient tracking across departments
-• Led HL7/FHIR Integration Team - Implemented enterprise healthcare messaging systems connecting Electronic Health Records (EHR) across clinical departments
-• Delivered 18+ production AI/automation solutions in 4 months, including:
-  - Enterprise email automation system (Microsoft 365 integration)
-  - Healthcare data transformation pipelines (Medisoft EHR migration)
-  - QR code inventory tracking application (mobile + web portals)
-  - Automated GUI workflows for clinical registration systems
-  - Nursing units reporting and bundle management system
-• Presented technical solutions to executive IT leadership and cross-functional teams
-• Promoted from IT Intern to Associate AI Engineer within 10 months based on exceptional performance
-• Recognized as top 20% performer among 1-year developers
+• Scaled ORBIT inventory system to multiple locations (SQL Server + Python automation)
+• Built “MISSION CONTROL” real-time monitoring dashboard ingesting HL7 ADT via .NET TCP listeners for live patient tracking
+• Led HL7/FHIR integration connecting EHR workflows across clinical departments
+• Delivered 18+ production AI/automation solutions in 4 months across Microsoft 365, EHR migration, inventory, and reporting workflows
+• Presented solutions to executive IT leadership; promoted from IT Intern to Associate AI Engineer within 10 months
 
 Technologies: Microsoft Azure AI, Python, SQL Server, .NET Core, HL7/FHIR, Microsoft 365, Pandas
 
 IT SYSTEMS ANALYST (Intern → Full Rotation) | DHR Health
 November 2024 – September 2025 | McAllen, Texas
-
-Completed comprehensive rotation across enterprise IT departments at major healthcare system.
-
 • Rotated through 6+ departments: Integration, Server Administration, Network Security, Applications Development, Help Desk, Service Desk
-• Gained hands-on experience with enterprise healthcare IT infrastructure and clinical workflows
-• Shadowed OR (Operating Room) staff to understand real-world healthcare technology needs
-• Selected for accelerated promotion to AI Engineering team based on technical aptitude and performance
+• Supported enterprise end-user operations and ticket workflows across clinical systems
+• Shadowed OR (Operating Room) staff to map real clinical workflows and translate needs into IT requirements
+• Selected for accelerated promotion to AI Engineering team based on performance
 
 FOUNDER & TECHNICAL LEAD | Luigi AI
 2025 – Present | AI Consulting Startup
-Launched AI consulting business providing automation solutions and technical services.
+• Provide AI automation and custom software services
 Website: [Luigi AI platform]
 
 RESEARCH ASSOCIATE | Doctors Hospital at Renaissance
 2020 – 2021 | McAllen, Texas
-Paid research internship supporting clinical trials and healthcare research initiatives.
-• Contributed to Zika Virus DNA Vaccine Phase 2/2B clinical trial
-• Gained experience in healthcare data analysis and research protocols
+• Supported clinical trials and healthcare research initiatives; contributed to Zika Virus DNA Vaccine Phase 2/2B clinical trial
 
 MCAT MASTERY TUTOR
 2018 | Virtual Tutoring
-Tutored students for US medical school entrance exam (MCAT). Leveraged top 1% MCAT score (522/528) to help students achieve competitive scores.
+Tutored students for US medical school entrance exam (MCAT); leveraged 522/528 score (99th percentile nationally)
 
 ASSISTANT TO LEAD STUDY COORDINATOR | Doctors Hospital at Renaissance
 2017 – 2018 | McAllen, Texas
