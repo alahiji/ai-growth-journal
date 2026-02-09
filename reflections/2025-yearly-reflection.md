@@ -1,8 +1,16 @@
 # 2025 Year in Review
 
-2025 was a year of exceptional professional growth and major life changes. I transitioned from DHR intern to Associate AI Automation Engineer, delivered 18+ production projects in 4 months, earned two professional certifications, and got married—all while recognizing I'm repeating the same burnout pattern that broke me in undergrad and med school.
+2025 was my first full year in this new field: IT. I've started to gear myself more towards an "AI Engineer" and picked up a few certifications.
+I also went to Iran and got married at the end of the year, carrying over a bit into 2026. My goal is to be near her as soon as possible.
 
-The difference this time is awareness. I started therapy, created this journal, and for the first time in my adult life, I'm making choices that are actually mine. The question for 2026 isn't "how much can I achieve?" It's "how can I build a life worth living?"
+I hope that my application for her to join me here gets processed quickly... but I'm not sure how realistic that is. Perhaps I'll have to move.
+No idea.
+
+Still looking to grow, and will likely not be at DHR at the end of 2026 (likely much sooner).
+
+2025... you were ok I suppose. 2026 is already better though haha.
+
+Still not diamond in league, but that's become much less of a priority very quickly with my life starting to move forward.
 
 ---
 
@@ -16,12 +24,12 @@ The difference this time is awareness. I started therapy, created this journal, 
 - **Leadership**: Stepped up during colleague departure, led OR staff implementation, presented to technical teams
 
 ### Personal
-- **Married** in Iran (January 17, 2026)
+- **Met Saba** - The love of my life. She's absolutely incredible in every way.
 - **Loss of Uncle Mostafa** - First experience with death of close family member
-- **Started therapy** (December 22, 2025)
+- **Started this AI therapy** (December 22, 2025)
 - **Created AI growth journal** for self-awareness and pattern tracking
 - **Maintained consistent gym routine** (3 heavy days + daily activity)
-- **Launched Luigi AI** side business website
+- **Launched Luigi AI** side business website prototype, "launch" is kind of an overstatement
 
 ---
 

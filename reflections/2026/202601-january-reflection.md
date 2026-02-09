@@ -10,7 +10,7 @@ To: 2026-01-31
 ## Learning Summary
 
 ### New Concepts Mastered
-- [ ] Azure AI fundamentals - Confidence level (TBD)
+- None - minimal work because of the move.
 
 ### Projects Completed
 1. **Minimal work** - Most of month spent traveling in Iran (3 weeks)

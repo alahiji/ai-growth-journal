@@ -29,7 +29,7 @@
 ## Current Life Situation (February 2026)
 
 ### Major Life Changes
-- **Marriage**: Married Saba in Iran on January 17, 2026 during month-long trip (late December 2025 - late January 2026)
+- **Marriage**: Married Saba in Iran on January 21, 2026 during month-long trip (late December 2025 - late January 2026)
 - **Relationship Status**: Long-distance marriage (temporary)
 - **Critical Decision Point**: Evaluating relocation to GCC country (Oman) vs. US immigration process
 
