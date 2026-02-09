@@ -17,7 +17,8 @@
 | Session | Date | Focus | Key Themes | Status |
 |---------|------|-------|------------|--------|
 | 1 | 2025-12-22 | Initial intake | Work relationship, school→work transition, 12hr daily commitment, existential dread | Complete |
-| 2 | 2026-01-28 | Sleep, marriage, career | Sleep deprivation, relationship expectations, marriage revelation, GCC move consideration | In Progress |
+| 2 | 2026-01-28 | Sleep, marriage, career | Sleep deprivation, relationship expectations, marriage revelation, GCC move consideration | Complete |
+| 3 | 2026-02-07 | Career negotiation, promotion | Salary discussion (40% increase), growth needs, fear of being "too direct", prepared to leave | In Progress |
 
 ---
 
