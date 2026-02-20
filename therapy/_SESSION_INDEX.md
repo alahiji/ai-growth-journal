@@ -18,7 +18,8 @@
 |---------|------|-------|------------|--------|
 | 1 | 2025-12-22 | Initial intake | Work relationship, school→work transition, 12hr daily commitment, existential dread | Complete |
 | 2 | 2026-01-28 | Sleep, marriage, career | Sleep deprivation, relationship expectations, marriage revelation, GCC move consideration | Complete |
-| 3 | 2026-02-07 | Career negotiation, promotion | Salary discussion (40% increase), growth needs, fear of being "too direct", prepared to leave | In Progress |
+| 3 | 2026-02-07 | Career, FIRE, identity, cultural mismatch | Salary discussion (didn't mention 40%), med school regret/grass-is-greener, Saba as "reason for living", Iranian cultural breadwinner expectations vs. FIRE, avoidance pattern (salary, Saba convo), no independent purpose identified | Complete |
+| 4 | 2026-02-20 | Remote work, loneliness, prenup/money fear | CEO-level AI project discussions, remote→Dubai→Saba plan forming, 11 years of loneliness named, prenup fear as parents' divorce trauma projected onto Saba, financial vulnerability is mutual | In Progress |
 
 ---
 
@@ -68,13 +69,21 @@
 
 ---
 
-## Current Therapy Homework (Session 2)
+## Current Therapy Homework (Session 4)
 
-1. **Answer honestly:** If could work remotely from home, doing exact same IT work for same pay, but near Saba with control over schedule—would still be unhappy?
+1. **Have the remote work conversation at DHR.** Specific ask: remote status + possibility of working from Dubai. Don't leave it vague.
 
-2. **Track:** When playing League/TFT, pause before starting and ask: "What am I avoiding right now?" Write down answer.
+2. **Journal on the loneliness.** Not career, not Saba — just the 11 years. What has it cost you? What did you build around it to cope?
 
-3. **Research:** Remote work options in IT field. Don't apply yet—just research if possible.
+3. **Write about your parents' divorce.** What happened, what you witnessed, what it taught you. Then: in what ways is Saba like your mother? In what ways is she different?
+
+4. **Don't bring up the prenup with Saba again** until more internal work is done here.
+
+### Previous Homework (Session 3)
+1. ~~Have the FIRE conversation with Saba~~ → Partially done; cultural mismatch surfaced
+2. Journal: letter to 22-year-old self in medical school
+3. Identify one thing that's yours
+4. ~~Continue DHR salary conversation~~ → Now in CEO-level discussions, remote work next
 
 ## Notes for Next Session
 
@@ -96,3 +105,15 @@
 - Internal vs. external motivation (still proving something?)
 - Relationship between proximity and happiness
 - Redefining "success" from external to internal metrics
+- **NEW: Pattern of softening/qualifying honest statements** (didn't mention 40%, softened Saba concern)
+- **NEW: Saba as "reason for living"** — codependency risk, need for independent identity/purpose
+- **NEW: FIRE communication with Saba** — vision vs. mechanics, potential values mismatch or framing issue
+- **NEW: Reactive job searching** — "applying everywhere" may be scatter pattern, not strategy
+- **NEW: Medical school regret / grass-is-greener backward** — romanticizing the path not taken, same logic that led to medicine
+- **NEW: Iranian cultural expectations** — breadwinner model vs. FIRE; Saba may lack framework for early retirement concept
+- **NEW: Avoidance pattern deepening** — didn't mention 40%, softens statements, scared to talk to Saba about FIRE. Rooted in childhood survival strategy (mother's ultimatum)
+- **NEW: No independent purpose** — "I'd be looking for a Saba" = dependency, not foundation. Has never chosen something purely for himself
+- **NEW: 11 years of loneliness** — left Iran at 17, alone since 2015; loneliness is the constant underneath burnout, gaming, urgency around Saba
+- **NEW: Prenup/money fear** — rooted in parents' divorce; projecting betrayal onto Saba who hasn't earned that suspicion; already married so prenup ship has sailed
+- **NEW: Self-protection armor** — 11 years of building walls; now getting in the way of intimacy he actually wants; already bracing for Saba to leave
+- **NEW: Career momentum** — CEO-level AI discussions, centralized AI portal, insurance claims; most promising career development so far
